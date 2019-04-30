@@ -1,0 +1,10 @@
+li a {
+    color: darkpink;
+}
+
+body {
+    background: pink url("images/background.gif") no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
